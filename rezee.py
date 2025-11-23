@@ -1,6 +1,4 @@
-# Rezee Ubot - Multi Instance Version
-# FIXED by GPT sesuai permintaan format: /addubot instance|stringsession
-
+# Kontol
 import asyncio
 import random
 import os
