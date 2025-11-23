@@ -20,7 +20,7 @@ LOG_CHANNEL="${LOG_CHANNEL}"
 EOF
 
 echo "[+] Download file Rezee Ubot..."
-curl -s https://raw.githubusercontent.com/Joodev65/joo/refs/heads/main/Rezee%20Ubot.py -o rezee.py
+curl -s https://raw.githubusercontent.com/Joodev65/joo/refs/heads/main/rezee.py -o rezee.py
 
 echo "[+] Install Telethon..."
 pip install telethon --quiet || pip3 install telethon --quiet
